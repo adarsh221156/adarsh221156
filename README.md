@@ -36,7 +36,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/adarsh221156" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh221156&show_icons=true&locale=en" alt="adarsh221156" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh221156&show_icons=true&locale=en&layout=compact" alt="adarsh221156" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarsh221156" alt="adarsh221156" /></a></p>
+
 
 <!--
 **adarsh221156/adarsh221156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
